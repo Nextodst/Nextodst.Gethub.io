@@ -10,7 +10,7 @@ This is my 360 image
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We should've tooken more pictures
 
 ```markdown
 Syntax highlighted code block
