@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my 360 Pages
 
-You can use the [editor on GitHub](https://github.com/Nextodst/Nextodst.Gethub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 360
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my 360 image
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/9pxyy" ></script>
+
+***
 
 ### Markdown
 
@@ -10,13 +14,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
