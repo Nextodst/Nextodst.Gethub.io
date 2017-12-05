@@ -21,4 +21,4 @@ We should've taken more pictures
 
 ### Yes it does hahahaha
 
-I have long fimgers what does that means
+I have long fimgers, what does that mean?
