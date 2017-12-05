@@ -18,14 +18,6 @@ Syntax highlighted code block
 1. Numbered
 2. Listed not
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### I'm just putting down words to see if anything changes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nextodst/Nextodst.Gethub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
