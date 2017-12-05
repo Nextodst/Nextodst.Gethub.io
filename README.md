@@ -10,14 +10,13 @@ This is my 360 image
 
 ### pictures
 
-We should've tooken more pictures
+We should've taken more pictures
 
-```markdown
-Syntax highlighted code block
-
-1. Numbered
-2. Listed not
-
+1. scaf
+2. not
+3. On This
+4. bullet
+5. list
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nextodst/Nextodst.Gethub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
