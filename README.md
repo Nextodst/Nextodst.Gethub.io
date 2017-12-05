@@ -8,7 +8,7 @@ This is my 360 image
 
 ***
 
-### Markdown
+### pictures
 
 We should've tooken more pictures
 
@@ -16,7 +16,7 @@ We should've tooken more pictures
 Syntax highlighted code block
 
 1. Numbered
-2. List
+2. Listed not
 
 **Bold** and _Italic_ and `Code` text
 
@@ -25,10 +25,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### I'm just putting down words to see if anything changes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nextodst/Nextodst.Gethub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Yes it does hahahaha
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
