@@ -1,4 +1,5 @@
 ## Welcome to my 360 Pages
+by Joel Martinez
 
 ### 360
 
